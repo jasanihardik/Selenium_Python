@@ -64,7 +64,7 @@ Selenium_Framework/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/jasanihardik/Selenium_Python.git
    cd Selenium_Framework
    ```
 
